@@ -1,3 +1,5 @@
+package dnd;
+
 public class Fighter extends Dude {
     public Fighter(String name) {
         super(name, 5, 15, 100, 3);

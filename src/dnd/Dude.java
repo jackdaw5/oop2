@@ -1,3 +1,5 @@
+package dnd;
+
 import java.util.*;
 
 public abstract class Dude {

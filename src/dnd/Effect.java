@@ -1,3 +1,5 @@
+package dnd;
+
 public interface Effect {
     void onHit(Dude target);
     void onTurnStart(Dude target);

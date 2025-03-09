@@ -1,3 +1,5 @@
+package dnd;
+
 public class Knockdown implements Effect {
     @Override
     public void onHit(Dude target) {

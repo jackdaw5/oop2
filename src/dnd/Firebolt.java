@@ -1,3 +1,5 @@
+package dnd;
+
 public class Firebolt implements Effect {
     private int damage;
     private boolean hasBurnedAlready = false;

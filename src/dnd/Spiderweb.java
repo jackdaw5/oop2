@@ -1,3 +1,5 @@
+package dnd;
+
 public class Spiderweb implements Effect {
     private int effectDuration = 2;
 

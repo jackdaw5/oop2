@@ -1,3 +1,5 @@
+package dnd;
+
 public class WeaponAttack implements Effect {
     private int damage;
 
